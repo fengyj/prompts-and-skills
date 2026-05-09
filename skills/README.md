@@ -2,6 +2,10 @@
 
 Store skill files here.
 
+## Available skills
+
+- `hv-analysis`: 横纵分析法深度研究 skill，用于对产品/公司/概念/人物做纵向+横向分析，并支持将 Markdown 报告转换为 PDF。
+
 ## Template
 
 ```md
